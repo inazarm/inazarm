@@ -1,16 +1,17 @@
-### Hi there 👋
+Software Developer
 
-<!--
-**inazarm/inazarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nazar Muhammad,from Pakistan 🇵🇰
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Asp.net MVC web Application
+
+- 🌱 I’m currently learning React and React-Native
+
+
+- 📫 How to reach me:
+
+:octocat: Github => 🔗 https://github.com/inazarm
+
+🔵 Facebook: => 🔗 https://www.facebook.com/inazar.m
+
+    Email-Address => inazar.m@gmail.com
